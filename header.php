@@ -21,8 +21,8 @@
 
     <nav>
       <ul>
-        <li><a href="<?php echo esc_url(home_url('/category/about/')); ?>">About</a></li>
-        <li><a href="<?php echo esc_url(home_url('/category/bicycle/')); ?>">Bicycle</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#bicycle">Bicycle</a></li>
       </ul>
     </nav>
   </header>
